@@ -1,4 +1,4 @@
-(module PTN78000A (layer F.Cu) (tedit 5E65E58C)
+(module PTN78000A (layer F.Cu) (tedit 5E67019B)
   (fp_text reference REF** (at -3.81 1.27) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)) (justify left))
   )
@@ -14,7 +14,7 @@
   (pad 3 thru_hole circle (at -8 4.55) (size 2.2 2.2) (drill 1.1) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 8 4.55) (size 2.2 2.2) (drill 1.1) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at 8 -5.08) (size 2.2 2.2) (drill 1.1) (layers *.Cu *.Mask))
-  (model G:/modular/parts/PTN78000AAH/Fusion.wrl
+  (model "G:/modular/KiCad Parts/PTN78000AAH.wrl"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -1,4 +1,4 @@
-(module BARREL_JACK_VERTICAL (layer F.Cu) (tedit 5E65D7F2)
+(module BARREL_JACK_VERTICAL (layer F.Cu) (tedit 5E670159)
   (fp_text reference REF** (at -4.5 7) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)) (justify left))
   )
@@ -21,7 +21,7 @@
   (pad 1 thru_hole oval (at 0 -3) (size 4.5 2) (drill oval 3.4 0.9) (layers *.Cu *.Mask))
   (pad 2 thru_hole oval (at 0 3) (size 3.8 1.8) (drill oval 2.9 0.9 (offset -0.2 0.1)) (layers *.Cu *.Mask))
   (pad 3 thru_hole oval (at 3.5 2) (size 3.4 1.8) (drill oval 2.4 0.9 (offset 0.2 -0.1)) (layers *.Cu *.Mask))
-  (model G:/modular/parts/Barrel_Jack_Vertical/Fusion.wrl
+  (model "G:/modular/KiCad Parts/Barrel_Jack_Vertical.wrl"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

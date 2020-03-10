@@ -1,4 +1,4 @@
-(module DUAL_TAB_4.8MM (layer F.Cu) (tedit 5E66FDD3)
+(module DUAL_TAB_4.8MM (layer F.Cu) (tedit 5E670171)
   (fp_text reference REF** (at 0 4.445) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -16,7 +16,7 @@
   (pad 1 thru_hole circle (at -2.5 2) (size 3 3) (drill 1.7) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 2.5 -2) (size 3 3) (drill 1.7) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at -2.5 -2) (size 3 3) (drill 1.7) (layers *.Cu *.Mask))
-  (model G:/modular/parts/DUAL_TAB_4.8MM/Fusion.wrl
+  (model "G:/modular/KiCad Parts/DUAL_TAB_4.8MM.wrl"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
