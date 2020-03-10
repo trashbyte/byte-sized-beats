@@ -1,0 +1,7 @@
+fp-info-cache
+fp-lib-table
+sym-lib-table
+power-supply-cache.lib
+
+*.kicad_pcb-bak
+*.sch-bak
