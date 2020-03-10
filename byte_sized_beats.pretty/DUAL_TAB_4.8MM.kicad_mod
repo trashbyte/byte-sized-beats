@@ -1,4 +1,4 @@
-(module DUAL_TAB_4.8MM (layer F.Cu) (tedit 5E66CDEC)
+(module DUAL_TAB_4.8MM (layer F.Cu) (tedit 5E66FDD3)
   (fp_text reference REF** (at 0 4.445) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -11,9 +11,6 @@
   (fp_poly (pts (xy 1.1 2.5) (xy -1.1 2.5) (xy -1.1 1.5) (xy 1.1 1.5)) (layer B.SilkS) (width 0.1))
   (fp_text user TABS (at 0 0) (layer F.SilkS)
     (effects (font (size 0.9 0.9) (thickness 0.15)))
-  )
-  (fp_text user TABS (at 0 0) (layer B.SilkS)
-    (effects (font (size 0.9 0.9) (thickness 0.15)) (justify mirror))
   )
   (pad 1 thru_hole circle (at 2.5 2) (size 3 3) (drill 1.7) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at -2.5 2) (size 3 3) (drill 1.7) (layers *.Cu *.Mask))
