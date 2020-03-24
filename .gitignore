@@ -5,4 +5,7 @@ power-supply-cache.lib
 
 *.kicad_pcb-bak
 *.sch-bak
+*.bak
+*.bck
+*.000
 *.blend1

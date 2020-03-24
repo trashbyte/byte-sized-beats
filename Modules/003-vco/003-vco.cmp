@@ -1,0 +1,187 @@
+Cmp-Mod V01 Created by PcbNew   date = 3/21/2020 1:49:24 PM
+
+BeginCmp
+TimeStamp = 5E7676E9
+Path = 
+Reference = REF**;
+ValeurCmp = Adafruit_ItsyBitsyM0;
+IdModule  = byte_sized_beats:Adafruit_ItsyBitsyM0;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E767320
+Path = 
+Reference = REF**;
+ValeurCmp = EURORACK_COMBO;
+IdModule  = byte_sized_beats:EURORACK_COMBO;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E766C55
+Path = 
+Reference = REF**;
+ValeurCmp = LED_D3.0mm_Raised;
+IdModule  = byte_sized_beats:LED_D3.0mm_Raised;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E766C43
+Path = 
+Reference = REF**;
+ValeurCmp = LED_D3.0mm_Raised;
+IdModule  = byte_sized_beats:LED_D3.0mm_Raised;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E766C25
+Path = 
+Reference = REF**;
+ValeurCmp = SW_PUSH_6mm;
+IdModule  = Button_Switch_THT:SW_PUSH_6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E766AEF
+Path = 
+Reference = REF**;
+ValeurCmp = LED_D3.0mm_Raised;
+IdModule  = byte_sized_beats:LED_D3.0mm_Raised;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E766AED
+Path = 
+Reference = REF**;
+ValeurCmp = LED_D3.0mm_Raised;
+IdModule  = byte_sized_beats:LED_D3.0mm_Raised;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E766A38
+Path = 
+Reference = REF**;
+ValeurCmp = SW_PUSH_6mm;
+IdModule  = Button_Switch_THT:SW_PUSH_6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E761731
+Path = 
+Reference = REF**;
+ValeurCmp = Potentiometer_Bourns_PTV09A-1_Single_Vertical;
+IdModule  = Potentiometer_THT:Potentiometer_Bourns_PTV09A-1_Single_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E761731
+Path = 
+Reference = REF**;
+ValeurCmp = Potentiometer_Bourns_PTV09A-1_Single_Vertical;
+IdModule  = Potentiometer_THT:Potentiometer_Bourns_PTV09A-1_Single_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E761711
+Path = 
+Reference = REF**;
+ValeurCmp = Potentiometer_Bourns_PTV09A-1_Single_Vertical;
+IdModule  = Potentiometer_THT:Potentiometer_Bourns_PTV09A-1_Single_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E760FAF
+Path = 
+Reference = REF**;
+ValeurCmp = Potentiometer_Alpha_RD901F-40-00D_Single_Vertical;
+IdModule  = Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E760FAF
+Path = 
+Reference = REF**;
+ValeurCmp = Potentiometer_Alpha_RD901F-40-00D_Single_Vertical;
+IdModule  = Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E760F58
+Path = 
+Reference = REF**;
+ValeurCmp = Potentiometer_Alpha_RD901F-40-00D_Single_Vertical;
+IdModule  = Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E7608C5
+Path = 
+Reference = REF**;
+ValeurCmp = ThonkiconnJack;
+IdModule  = byte_sized_beats:ThonkiconnJack;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E7608C5
+Path = 
+Reference = REF**;
+ValeurCmp = ThonkiconnJack;
+IdModule  = byte_sized_beats:ThonkiconnJack;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E7608C5
+Path = 
+Reference = REF**;
+ValeurCmp = ThonkiconnJack;
+IdModule  = byte_sized_beats:ThonkiconnJack;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E7608C5
+Path = 
+Reference = REF**;
+ValeurCmp = ThonkiconnJack;
+IdModule  = byte_sized_beats:ThonkiconnJack;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E7608C5
+Path = 
+Reference = REF**;
+ValeurCmp = ThonkiconnJack;
+IdModule  = byte_sized_beats:ThonkiconnJack;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E76070D
+Path = 
+Reference = REF**;
+ValeurCmp = ThonkiconnJack;
+IdModule  = byte_sized_beats:ThonkiconnJack;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E7606CC
+Path = 
+Reference = REF**;
+ValeurCmp = ThonkiconnJack;
+IdModule  = byte_sized_beats:ThonkiconnJack;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E76068A
+Path = 
+Reference = REF**;
+ValeurCmp = ThonkiconnJack;
+IdModule  = byte_sized_beats:ThonkiconnJack;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E760648
+Path = 
+Reference = REF**;
+ValeurCmp = ThonkiconnJack;
+IdModule  = byte_sized_beats:ThonkiconnJack;
+EndCmp
+
+EndListe
